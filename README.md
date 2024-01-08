@@ -15,7 +15,7 @@ Simple Linear Regression is a fundamental concept in machine learning, particula
 
 1. Clone the repository: `git clone https://github.com/hemantramphul/Simple-Linear-Regression.git`
 2. Open and run the Jupyter Notebook `Simple_Linear_Regression_in_ML.ipynb` to explore the implementation.
-3. Or `Open in Colab directly`.
+3. Or `Open in Colab`.
 
 ## Complete Tutorial
 
