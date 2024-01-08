@@ -19,6 +19,6 @@ Simple Linear Regression is a fundamental concept in machine learning, particula
 
 ## Complete Tutorial
 
-For a detailed explanation and step-by-step tutorial, please read the complete guide [here](https://github.com/hemantramphul/Simple-Linear-Regression/).
+For a detailed explanation and step-by-step tutorial, please read the complete guide [here](https://medium.com/@hemant.ramphul/linear-regression-in-machine-learning-f166cf03c1da).
 
 Feel free to explore, learn, and customize the code according to your needs! If you have any questions or feedback, please create an issue.
