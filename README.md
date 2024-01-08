@@ -2,6 +2,8 @@
 
 Welcome to the Simple Linear Regression in Machine Learning repository! This repository provides a straightforward implementation of the Simple Linear Regression algorithm using Python.
 
+<img src="Linear Regression in Machine Learning.png"/>
+
 ## Overview
 
 Simple Linear Regression is a fundamental concept in machine learning, particularly in predictive modeling. It involves modeling the relationship between a single independent variable and a dependent variable. This repository serves as a learning resource and example for those interested in understanding and implementing Simple Linear Regression.
